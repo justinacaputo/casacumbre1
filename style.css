@@ -73,13 +73,12 @@ img {
 /* HERO */
 
 .hero {
-  height: 380px;
-  background-image: url("img/sobre-casa.jpg");
+  height: 430px;
+  background-image: url("img/casa-frente.png");
   background-size: cover;
   background-position: center;
   position: relative;
 }
-
 .hero-text {
   position: absolute;
   left: 92px;
