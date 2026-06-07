@@ -1142,3 +1142,12 @@ button:hover {
 .green-btn {
   margin-top: 55px;
 }
+/* MARGEN ENTRE FOTOS Y SECCIÓN VERDE - SOBRE NOSOTROS */
+
+.espacios-nosotros {
+  padding-bottom: 55px;
+}
+
+.espacios-grid-nosotros {
+  margin-bottom: 55px;
+}
